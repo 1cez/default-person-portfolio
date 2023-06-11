@@ -25,7 +25,7 @@ npm install _
 
 # Ufak bir adet not:
 
-## Eger index.css'teki yorum satirlarini kaldirirsaniz simsekli bir cursorunuz oluyor bilginiz olsun
+# Eger index.css'teki yorum satirlarini kaldirirsaniz simsekli bir cursorunuz oluyor bilginiz olsun
 
 # Socials
 
@@ -46,4 +46,4 @@ npm install _
 İyi günler, iyi çalışmalar dilerim herkese!
 
 Saygılarımla,
-[Serhan]
+[Serhan CETIN]
